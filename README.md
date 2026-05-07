@@ -63,7 +63,7 @@ PLEASE BACKUP YOUR EXISTING .config WITH YOUR DOTFILES BEFORE STARTING THE SCRIP
 
 ## Screenshots & Video
 
-Arch Linux
+Archman Linux
 ![MODEL](https://github.com/hyprtk/archman-dots/blob/main/screenshots/archman1.png)
 ![Model](https://github.com/hyprtk/archman-dots/blob/main/screenshots/archman2.png)
 ![Model](https://github.com/hyprtk/archman-dots/blob/main/screenshots/archman3.png)
